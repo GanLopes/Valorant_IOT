@@ -1,0 +1,51 @@
+Player,Country,Team,Agents,Maps,K,D,A,KD,KDA,ACS/Map,K/Map,D/Map,A/Map
+TenZ,Canada,Sentinels,"['Jett', 'Reyna', 'Raze']",9,206,139,55,1.48,1.87,289,22.8,15.4,6.1
+ScreaM,Belgium,Team Liquid,"['Sage', 'Phoenix']",9,177,131,56,1.35,1.77,265,19.6,14.5,6.2
+ShahZaM,United States,Sentinels,"['Sova', 'Jett']",9,172,134,52,1.28,1.67,240,19.1,14.8,5.7
+L1NK,United Kingdom,Team Liquid,"['Brimstone', 'Omen']",9,147,123,57,1.19,1.65,218,16.3,13.6,6.3
+Jamppi,Finland,Team Liquid,"['Jett', 'Killjoy']",9,155,130,32,1.19,1.43,229,17.2,14.4,3.5
+Lakia,South Korea,NUTURN Gaming,"['Sova', 'Raze']",11,174,146,62,1.19,1.61,231,15.8,13.2,5.6
+SicK,United States,Sentinels,"['Phoenix', 'Raze', 'Sova']",9,147,126,61,1.16,1.65,218,16.3,14,6.7
+Mistic,United Kingdom,Fnatic,"['Viper', 'Skye']",16,240,206,120,1.16,1.74,191,15,12.8,7.5
+Klaus,Argentina,KRÜ Esports,"['Killjoy', 'Skye']",6,87,75,25,1.15,1.49,234,14.5,12.5,4.1
+Sacy,Brazil,Team Vikings,['Sova'],6,100,89,30,1.12,1.46,206,16.6,14.8,5
+Patiphan,Thailand,X10 Esports,"['Jett', 'Viper', 'Sage']",6,109,98,38,1.11,1.5,235,18.1,16.3,6.3
+Derke,Finland,Fnatic,"['Jett', 'Sova']",16,298,270,85,1.1,1.41,260,18.6,16.8,5.3
+Effys,Canada,Version1,"['Sova', 'Sage']",10,161,146,69,1.1,1.57,186,16.1,14.6,6.9
+Magnum,Czech Republic,Fnatic,"['Killjoy', 'Cypher', 'Skye']",16,270,246,83,1.09,1.43,215,16.8,15.3,5.1
+Zellsis,United States,Version1,"['Killjoy', 'Phoenix']",10,184,168,61,1.09,1.45,230,18.4,16.8,6.1
+Penny,Canada,Version1,['Jett'],10,185,173,40,1.06,1.3,227,18.5,17.3,4
+Peri,South Korea,NUTURN Gaming,"['Omen', 'Astra']",11,151,142,43,1.06,1.36,184,13.7,12.9,3.9
+Neth,Japan,Crazy Raccoon,['Killjoy'],4,63,61,15,1.03,1.27,203,15.7,15.2,3.7
+Dapr,United States,Sentinels,"['Cypher', 'Viper', 'Sage']",9,127,123,73,1.03,1.62,184,14.1,13.6,8.1
+Doma,Croatia,Fnatic,"['Sage', 'Omen', 'Raze']",16,247,241,120,1.02,1.52,205,15.4,15,7.5
+SScary,Thailand,X10 Esports,"['Astra', 'Viper']",6,88,87,35,1.01,1.41,157,14.6,14.5,5.8
+Boaster,United Kingdom,Fnatic,"['Astra', 'Sova', 'Skye']",16,241,241,81,1,1.33,190,15,15,5
+Foxz,Thailand,X10 Esports,"['Sova', 'Jett']",6,100,100,33,1,1.33,206,16.6,16.6,5.5
+Soulcas,United Kingdom,Team Liquid,"['Skye', 'Sova']",9,124,124,64,1,1.51,188,13.7,13.7,7.1
+Gaabxx,Brazil,Sharks Esports,"['Viper', 'Raze', 'Jett']",5,65,66,17,0.98,1.24,199,13,13.2,3.4
+Mazino,Chile,KRÜ Esports,"['Viper', 'Sage']",6,78,80,46,0.97,1.55,213,13,13.3,7.6
+Prozin,Brazil,Sharks Esports,"['Raze', 'Phoenix']",5,70,75,15,0.93,1.13,237,14,15,3
+Zepher,Japan,Crazy Raccoon,['Jett'],4,62,67,10,0.92,1.07,202,15.5,16.7,2.5
+Suggest,South Korea,NUTURN Gaming,"['Raze', 'Skye', 'Breach']",11,146,158,36,0.92,1.15,186,13.2,14.3,3.2
+Allow,South Korea,NUTURN Gaming,['Jett'],11,150,163,30,0.92,1.1,198,13.6,14.8,2.7
+Zombs,United States,Sentinels,"['Astra', 'Viper']",9,121,133,67,0.9,1.41,170,13.4,14.7,7.4
+Vanity,United States,Version1,"['Astra', 'Omen']",10,158,174,63,0.9,1.27,197,15.8,17.4,6.3
+Sutecas,Brazil,Team Vikings,"['Omen', 'Astra']",6,88,98,26,0.89,1.16,174,14.6,16.3,4.3
+Kryptix,United Kingdom,Team Liquid,"['Viper', 'Killjoy']",9,104,117,54,0.88,1.35,161,11.5,13,6
+Saadhak,Argentina,Team Vikings,"['Killjoy', 'Cypher']",6,81,92,26,0.88,1.16,166,13.5,15.3,4.3
+Crws,Thailand,X10 Esports,"['Skye', 'Breach']",6,81,93,34,0.87,1.23,171,13.5,15.5,5.6
+Munchkin,South Korea,Crazy Raccoon,"['Raze', 'Phoenix', 'Sage']",4,62,72,27,0.86,1.23,210,15.5,18,6.7
+Delz1k,Chile,KRÜ Esports,"['Sage', 'Omen', 'Brimstone']",6,62,73,22,0.84,1.15,157,10.3,12.1,3.6
+NagZ,Chile,KRÜ Esports,"['Jett', 'Sage']",6,67,81,13,0.82,0.98,169,11.1,13.5,2.1
+Solo,South Korea,NUTURN Gaming,"['Breach', 'Killjoy', 'Cypher']",11,137,167,65,0.82,1.2,188,12.4,15.1,5.9
+Jammyz,United States,Version1,"['Viper', 'Killjoy']",10,136,169,56,0.8,1.13,176,13.6,16.9,5.6
+Sushiboys,Thailand,X10 Esports,"['Killjoy', 'Cypher']",6,74,92,28,0.8,1.1,161,12.3,15.3,4.6
+Bnj,Argentina,KRÜ Esports,"['Sova', 'Raze', 'Skye']",6,60,79,38,0.75,1.24,173,10,13.1,6.3
+Frz,Brazil,Team Vikings,"['Jett', 'Phoenix']",6,75,100,24,0.75,0.99,139,12.5,16.6,4
+Medusa,South Korea,Crazy Raccoon,['Sova'],4,51,70,23,0.72,1.05,178,12.7,17.5,5.7
+Rion,Japan,Crazy Raccoon,"['Astra', 'Viper', 'Omen']",4,46,67,16,0.68,0.92,148,11.5,16.7,4
+DeNaro,Brazil,Sharks Esports,['Sova'],5,45,69,24,0.65,1,161,9,13.8,4.8
+GtnziN,Brazil,Team Vikings,"['Raze', 'Yoru']",6,60,96,28,0.62,0.91,141,10,16,4.6
+Light,Brazil,Sharks Esports,"['Omen', 'Brimstone']",5,35,67,22,0.52,0.85,125,7,13.4,4.4
+Fra,Brazil,Sharks Esports,"['Killjoy', 'Skye', 'Sage']",5,35,69,17,0.5,0.75,122,7,13.8,3.4
