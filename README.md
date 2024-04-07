@@ -5,4 +5,6 @@ Utilizamos os dados que contabilizam a pontuação do jogador na partida para pr
 O arquivo esta no formato de notebook Jupyter (.ipynb) e está disponivel no repositorio, mas tambem de forma organizada e pronta pra uso no link:
 https://colab.research.google.com/drive/1Y9tK-ZNK5ISeUGU_V3XBQB9A4Jgl8Fy6?usp=sharing
 
+OBS:Copie o caminho do arquivo do dataset depois de baixado, e insira o mesmo no espaço ("caminho_do_arquivo")
+
 
